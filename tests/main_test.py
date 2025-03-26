@@ -1,4 +1,4 @@
-from main import add_numbers
+from server import add_numbers
 
 
 def test_add_numbers():
